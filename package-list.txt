@@ -1,0 +1,3 @@
+# packages in environment at /Users/harshinshah/anaconda3/envs/m148:
+#
+# Name                    Version                   Build  Channel
